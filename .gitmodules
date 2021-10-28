@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/saby-integration/vo3_core.git
+[submodule "BlocklyExecutor"]
+	path = BlocklyExecutor
+	url = https://github.com/saby-integration/blockly_executor_1c.git
+[submodule "BlocklySabyBlocks"]
+	path = BlocklySabyBlocks
+	url = https://github.com/saby-integration/blockly_saby_blocks_1c.git
