@@ -1,8 +1,8 @@
 {
-  "uuid": "9fa6462b-915b-43a4-9e09-27c678dd4949",
-  "name": "Main",
+  "uuid": "c986e8f2-dacc-43ec-8ca9-62dbbd64ceff",
+  "name": "Saby_Browser",
   "name2": {
-    "ru": "Main"
+    "ru": "Saby browser"
   },
   "comment": "",
   "h1_0": "1",
@@ -27,13 +27,13 @@
               [
                 "1",
                 "0",
-                "9fa6462b-915b-43a4-9e09-27c678dd4949"
+                "c986e8f2-dacc-43ec-8ca9-62dbbd64ceff"
               ],
-              "\"Main\"",
+              "\"Saby_Browser\"",
               [
                 "1",
                 "\"ru\"",
-                "\"Main\""
+                "\"Saby browser\""
               ],
               "\"\"",
               "0",
