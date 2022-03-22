@@ -1,10 +1,11 @@
 {
   "ExternalDataProcessor.data803.json": "",
-  "ExternalDataProcessor.json": "",
-  "ExternalDataProcessor.obj.1c": "core\\src\\ExternalDataProcessor.obj.1c",
+  "ExternalDataProcessor.json": "core\\src\\ExternalDataProcessor.json",
   "Form": {
-    "Main.form803.json": "",
-    "Main.json": "",
-    "Main.obj.1c": "core\\src\\Form\\Main\\Main.obj.1c"
+    "Browser": {
+      "Form.form803.json": "",
+      "Form.json": "",
+      "Form.obj.1c": "core\\src\\Form\\Browser\\Form.obj.1c"
+    }
   }
 }
