@@ -1,4 +1,7 @@
 {
+  "Области include":{
+	"core_ДлительныеОперации": "core_ДлительныеОперации_Обработка"  
+  },
   "ExternalDataProcessor.data803.json": "",
   "ExternalDataProcessor.json": "core\\src\\ExternalDataProcessor.json",
   "Form": {
