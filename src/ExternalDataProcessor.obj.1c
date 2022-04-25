@@ -5,7 +5,7 @@
 #Область include_BlocklyExecutor_src_API
 #КонецОбласти
 
-#Область include_core_ДлительныеОперации
+#Область include_core_src_ДлительныеОперации
 #КонецОбласти
 
 
@@ -117,8 +117,7 @@
 	);
 	
 	Попытка
-		ТранспортСБИС	= Обработки.СБИС.Создать();
-		Коннекшин = ТранспортСБИС.local_helper_exec_method(
+		Коннекшин = local_helper_exec_method(
 			context_params,
 			Новый Структура("url, method, params, auto_auth",
 				context_params.api_url+"/integration_config/service/",
@@ -140,7 +139,7 @@
 				Коннекшин["result"]["id"], Метаданные.КраткаяИнформация + Метаданные.Версия + " КЭДО"),
 			Неопределено);
 			Попытка
-				РеНейм = ТранспортСБИС.local_helper_exec_method(
+				РеНейм = local_helper_exec_method(
 				context_params,
 				Новый Структура("url, method, params, auto_auth",
 					context_params.api_url+"/integration_config/service/",
@@ -240,8 +239,7 @@
 		context_params = НастройкиПодключенияПрочитать();
 	КонецЕсли;
 	ТокенSID	= Новый Структура("sid", context_params.session );
-	ОбработкаСБИС = Обработки.СБИС.Создать();
-	Тикет_ = ОбработкаСБИС.local_helper_api(context_params, "САП.GetTicketForCurrentSid", ТокенSID );
+	Тикет_ = local_helper_api(context_params, "САП.GetTicketForCurrentSid", ТокенSID );
 	Тикет	= "";
 	Если ТипЗнч(Тикет_) = Тип("Строка") Тогда
 		Тикет	= Тикет_;
@@ -350,6 +348,9 @@
 #Область include_core_src_Helpers
 #КонецОбласти
 
+#Область include_core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта
+#КонецОбласти
+
 #Область include_core_src_Helpers_ПроверкаВерсииПродукта_ВМодулеОбъекта
 #КонецОбласти
 
@@ -360,5 +361,5 @@
 #КонецОбласти
 
 #Область include_core_src_ExtException
-#КонецОбласти
+#КонецОбласти    
 

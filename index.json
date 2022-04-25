@@ -1,6 +1,9 @@
 {
   "Области include":{
-	"core_ДлительныеОперации": "core_ДлительныеОперации_Обработка"  
+	"core_src_ДлительныеОперации": "core_src_ДлительныеОперации_Обработка",
+	"core_src_Helpers_ПроверкаВерсииПродукта_ВМодулеОбъекта": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_ВМодулеОбъекта",
+	"core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НазваниеПродукта",
+	"core_src_Helpers_ПроверкаВерсииПродукта_НаФорме": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НаФорме"
   },
   "ExternalDataProcessor.data803.json": "",
   "ExternalDataProcessor.json": "core\\src\\ExternalDataProcessor.json",
