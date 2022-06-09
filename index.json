@@ -6,12 +6,12 @@
 	"core_src_Helpers_ПроверкаВерсииПродукта_НаФорме": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НаФорме"
   },
   "ExternalDataProcessor.data803.json": "",
-  "ExternalDataProcessor.json": "core\\src\\ExternalDataProcessor.json",
+  "ExternalDataProcessor.json": "",
   "Form": {
     "Browser": {
       "Form.form803.json": "",
       "Form.json": "",
-      "Form.obj.1c": "core\\src\\Form\\Browser\\Form.obj.1c"
+      "Form.obj.1c": ""
     }
   }
 }
