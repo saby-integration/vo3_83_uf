@@ -5,6 +5,9 @@
 #Область include_BlocklyExecutor_src_API
 #КонецОбласти
 
+#Область include_core_src_Helpers_ОбщиеНастройки
+#КонецОбласти
+
 #Область include_core_src_ДлительныеОперации
 #КонецОбласти
 
