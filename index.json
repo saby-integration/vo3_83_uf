@@ -5,13 +5,29 @@
 	"core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НазваниеПродукта",
 	"core_src_Helpers_ПроверкаВерсииПродукта_НаФорме": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НаФорме"
   },
-  "ExternalDataProcessor.data803.json": "",
-  "ExternalDataProcessor.json": "",
+  "ExternalDataProcessor.data803.json": "core\\src\\DataProcessor\\СБИС\\Обработка\\DataProcessor.json",
+  "ExternalDataProcessor.json": "core\\src\\DataProcessor\\СБИС\\Обработка\\DataProcessor.form803.json",
+  "ExternalDataProcessor.obj.1c": "core\\src\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
   "Form": {
-    "Browser": {
-      "Form.form803.json": "",
-      "Form.json": "",
-      "Form.obj.1c": ""
-    }
-  }
+        "Browser": {
+          "Form.json": "core\\src\\DataProcessor\\СБИС\\Form\\Browser\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\СБИС\\Form\\Browser\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\СБИС\\Form\\Browser\\Form.obj.1c"
+        },
+        "Вход": {
+          "Form.json": "core\\src\\DataProcessor\\СБИС\\Form\\Вход\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\СБИС\\Form\\Вход\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\СБИС\\Form\\Вход\\Form.obj.1c"
+        },
+        "ЗагрузкаПечатныхФормДокументов": {
+          "Form.json": "core\\src\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\СБИС\\Form\\ЗагрузкаПечатныхФормДокументов\\Form.obj.1c"
+        },
+        "Настройки": {
+          "Form.json": "core\\src\\DataProcessor\\СБИС\\Form\\Настройки\\Form.json",
+          "Form.form803.json": "core\\src\\DataProcessor\\СБИС\\Form\\Настройки\\Form.form803.json",
+          "Form.obj.1c": "core\\src\\DataProcessor\\СБИС\\Form\\Настройки\\Form.obj.1c"
+        }
+      }
 }
