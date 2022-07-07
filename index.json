@@ -5,8 +5,6 @@
 	"core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НазваниеПродукта",
 	"core_src_Helpers_ПроверкаВерсииПродукта_НаФорме": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НаФорме"
   },
-  "ExternalDataProcessor.data803.json": "core\\src\\DataProcessor\\СБИС\\Обработка\\DataProcessor.json",
-  "ExternalDataProcessor.json": "core\\src\\DataProcessor\\СБИС\\Обработка\\DataProcessor.form803.json",
   "ExternalDataProcessor.obj.1c": "core\\src\\DataProcessor\\СБИС\\DataProcessor.obj.1c",
   "Form": {
         "Browser": {
