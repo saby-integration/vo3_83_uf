@@ -1,0 +1,22 @@
+{
+  "saby_vo3_83_uf": {
+      "src": "src",
+      "bin": "bin/saby_vo3_83_uf.epf",
+      "temp": "temp",
+      "index": "index.json",
+      "version": "80314",
+      "descent": null,
+      "gui": null,
+      "disable": false
+  },
+  "saby_vo3_83_uf_test": {
+      "src": "src",
+      "bin": "bin/saby_vo3_83_uf.test.epf",
+      "temp": "temp",
+      "index": "index.json",
+      "version": "80314",
+      "descent": null,
+      "gui": null,
+      "disable": true
+  }
+}
