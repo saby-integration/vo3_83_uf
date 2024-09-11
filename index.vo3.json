@@ -1,0 +1,184 @@
+{
+  "Области include": {
+    "core_base_ДлительныеОперации": "core_base_ДлительныеОперации_ОбработкаУФ",
+    "core_base_ДлительныеОперации_ПодготовкаФормыОсобенностиПродукта": "core_base_ДлительныеОперации_ПодготовкаФормыОсобенностиПродуктаОбработка",
+    "core_base_ОсобенностиПлатформы_МодульФормы": "core_base_ОсобенностиПлатформы_МодульФормыУФ",
+    "core_base_ОсобенностиПлатформы_МодульОбъекта": "core_base_ОсобенностиПлатформы_МодульОбъектаУФ",
+    "core_base_ОсобенностиПлатформы_РаботаСоСтроками": "core_base_ОсобенностиПлатформы_РаботаСоСтрокамиУФ",
+    "core_base_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_base_ОсобенностиПлатформы_РаботаСЭлементамиУФ",
+    "core_base_ПроверкаВерсии_ПолучитьИмяФайлаИНомерТекущейВерсии": "core_base_ПроверкаВерсии_ПолучитьИмяФайлаИНомерТекущейВерсииОбработка",
+    "core_base_ПроверкаВерсии_НаФормеОсобенностиПродукта": "core_base_ПроверкаВерсии_НаФормеОсобенностиОбработки",
+    "core_base_Helpers_Константы": "core_base_Helpers_Константы803",
+    "core_base_АвтоматическиеОперации_МодульОбработки": "core_base_АвтоматическиеОперации_МодульОбработки",
+    "core_base_АвтоматическиеОперации_ВызовФорм": "core_base_АвтоматическиеОперации_ВызовФорм_Обработка",
+    "core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперацияУФ",
+    "core_base_Настройки_Form_Настройки_ОсобенностиПродукта": "core_base_Настройки_Form_Настройки_ОсобенностиПродуктаВнешняяОбработкаУправляемоеПриложение",
+    "core_base_СтатусыДокументов_ОсобенностиПродукта": "core_base_СтатусыДокументов_ОсобенностиПродуктаВнешняяОбработка",
+    "core_base_ЭДО_Form_ЗагрузкаДокументов_ОсобенностиПродукта": "core_base_ЭДО_Form_ЗагрузкаДокументов_ОсобенностиПродуктаВнешняяОбработка",
+    "core_base_ЭДО_Form_ВыполнитьДействие_ОсобенностиПродукта": "core_base_ЭДО_Form_ВыполнитьДействие_ОсобенностиПродуктаВнешняяОбработка",
+    "core_base_Helpers_СоздатьДополнительноеСвойствоКЭДО": "core_base_Helpers_СоздатьДополнительноеСвойствоКЭДОУФ",
+	"core_base_ЭДО_Form_ЗагрузкаДокументов_ОсобенностиПродуктаЗапуститьINI": "core_base_ЭДО_Form_ЗагрузкаДокументов_ОсобенностиПродуктаВнешняяОбработкаУФЗапуститьINI",
+    "core_base_Авторизация_Form_Вход_ОписаниеОповещенияОбработкиРезультатаАвторизации": "core_base_Авторизация_Form_Вход_ОписаниеОповещенияОбработкиРезультатаАвторизацииУФ",
+    "core_base_ДлительныеОперации_Form_ДлительнаяОперация_ОсобенностиОбработки": "core_base_ДлительныеОперации_Form_ДлительнаяОперация_ОсобенностиОбработкиУФ",
+    "core_base_ЭДО_Form_ВыполнитьДействие_ОсобенностиОбработки": "core_base_ЭДО_Form_ВыполнитьДействие_ОсобенностиОбработкиУФ",
+    "core_base_ЭДО_Form_ЗагрузкаДокументов_ОсобенностиОбработки": "core_base_ЭДО_Form_ЗагрузкаДокументов_ОсобенностиОбработкиУФ",
+    "core_base_Настройки_Form_Настройки_ЗагрузитьСопоставленияНаСервере": "core_base_Настройки_Form_Настройки_ЗагрузитьСопоставленияНаСервереВнешняяОбработка",
+	"core_base_ФоновыеЗадания_Клиент": "core_base_ФоновыеЗадания_КлиентУФ",
+	"core_base_ФоновыеЗадания_ЗагрузитьСопоставленияНаСервере": "core_base_ФоновыеЗадания_ЗагрузитьСопоставленияНаСервереУФ",
+	"core_base_Настройки_Form_Настройки_ЗагрузитьСопоставления": "core_base_Настройки_Form_Настройки_ЗагрузитьСопоставленияУФ",
+	"core_base_ФоновыеЗадания_МодульФоновогоЗаданияКлиент": "core_base_ФоновыеЗадания_МодульФоновогоЗаданияКлиентУФ",
+	"core_base_ФоновыеЗадания_МодульФоновогоЗаданияСервер": "core_base_ФоновыеЗадания_МодульФоновогоЗаданияСерверУФ",
+	"core_base_ФоновыеЗадания_МодульФоновогоЗаданияСерверСКлиента": "core_base_ФоновыеЗадания_МодульФоновогоЗаданияСерверСКлиентаУФ",
+	"core_base_ФоновыеЗадания_Saby_ГлобальныйМодульЯдра": "core_base_ФоновыеЗадания_Saby_ГлобальныйМодульЯдраУФ",
+	"base_CommonModule_ИмяМодуляCore": "base_CommonModule_ИмяМодуляCoreУФ"
+  },
+  "Form": {
+    "ГлавноеОкно": {
+      "Form.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.json",
+      "Form.form803.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.commands803.json",
+      "Form.elements803.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.elements803.json",
+      "Form.props803.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.props803.json"
+    },
+    "Фильтр": {
+      "Form.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.json",
+      "Form.form803.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.commands803.json",
+      "Form.elements803.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.elements803.json",
+      "Form.props803.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.props803.json"
+    },
+    "Browser": {
+      "Form.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.json",
+      "Form.form803.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.commands803.json",
+      "Form.elements803.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.elements803.json",
+      "Form.params803.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.params803.json",
+      "Form.props803.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.props803.json"
+    },
+    "Вход": {
+      "Form.json": "core\\base\\Авторизация\\Form\\Вход\\Form.json",
+      "Form.form803.json": "core\\base\\Авторизация\\Form\\Вход\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\Авторизация\\Form\\Вход\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\Авторизация\\Form\\Вход\\Form.commands803.json",
+      "Form.props803.json": "core\\base\\Авторизация\\Form\\Вход\\Form.props803.json",
+      "Form.params803.json": "core\\base\\Авторизация\\Form\\Вход\\Form.params803.json",
+      "Form.elements803.json": "core\\base\\Авторизация\\Form\\Вход\\Form.elements803.json"
+    },
+    "ЗагрузкаДокументов": {
+      "Form.json": "core\\base\\ЭДО\\Form\\ЗагрузкаДокументов\\Form.json",
+      "Form.form803.json": "core\\base\\ЭДО\\Form\\ЗагрузкаДокументов\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\ЭДО\\Form\\ЗагрузкаДокументов\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\ЭДО\\Form\\ЗагрузкаДокументов\\Form.commands803.json",
+      "Form.elements803.json": "core\\base\\ЭДО\\Form\\ЗагрузкаДокументов\\Form.elements803.json",
+      "Form.props803.json": "core\\base\\ЭДО\\Form\\ЗагрузкаДокументов\\Form.props803.json"
+    },
+    "Настройки": {
+      "Form.json": "core\\base\\Настройки\\Form\\Настройки\\Form.json",
+      "Form.form803.json": "core\\base\\Настройки\\Form\\Настройки\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\Настройки\\Form\\Настройки\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\Настройки\\Form\\Настройки\\Form.commands803.json",
+      "Form.props803.json": "core\\base\\Настройки\\Form\\Настройки\\Form.props803.json",
+      "Form.elements803.json": "core\\base\\Настройки\\Form\\Настройки\\Form.elements803.json"
+    },
+    "ПросмотрДокументаСБИС": {
+      "Form.json": "core\\base\\ЭДО\\Form\\ПросмотрДокументаСБИС\\Form.json",
+      "Form.form803.json": "core\\base\\ЭДО\\Form\\ПросмотрДокументаСБИС\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\ЭДО\\Form\\ПросмотрДокументаСБИС\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\ЭДО\\Form\\ПросмотрДокументаСБИС\\Form.commands803.json",
+      "Form.elements803.json": "core\\base\\ЭДО\\Form\\ПросмотрДокументаСБИС\\Form.elements803.json",
+      "Form.params803.json": "core\\base\\ЭДО\\Form\\ПросмотрДокументаСБИС\\Form.params803.json",
+      "Form.props803.json": "core\\base\\ЭДО\\Form\\ПросмотрДокументаСБИС\\Form.props803.json"
+    },
+    "ПросмотрДокумента": {
+      "Form.json": "core\\base\\ПросмотрДокумента\\Form\\ПросмотрДокумента\\Form.json",
+      "Form.form803.json": "core\\base\\ПросмотрДокумента\\Form\\ПросмотрДокумента\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\ПросмотрДокумента\\Form\\ПросмотрДокумента\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\ПросмотрДокумента\\Form\\ПросмотрДокумента\\Form.commands803.json",
+      "Form.elements803.json": "core\\base\\ПросмотрДокумента\\Form\\ПросмотрДокумента\\Form.elements803.json",
+      "Form.params803.json": "core\\base\\ПросмотрДокумента\\Form\\ПросмотрДокумента\\Form.params803.json",
+      "Form.props803.json": "core\\base\\ПросмотрДокумента\\Form\\ПросмотрДокумента\\Form.props803.json"
+    },
+    "Задачи": {
+      "Form.json": "core\\base\\ЭДО\\Form\\Задачи\\Form.json",
+      "Form.form803.json": "core\\base\\ЭДО\\Form\\Задачи\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\ЭДО\\Form\\Задачи\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\ЭДО\\Form\\Задачи\\Form.commands803.json",
+      "Form.props803.json": "core\\base\\ЭДО\\Form\\Задачи\\Form.props803.json",
+      "Form.elements803.json": "core\\base\\ЭДО\\Form\\Задачи\\Form.elements803.json"
+    },
+    "ВыполнитьДействие": {
+      "Form.json": "core\\base\\ЭДО\\Form\\ВыполнитьДействие\\Form.json",
+      "Form.form803.json": "core\\base\\ЭДО\\Form\\ВыполнитьДействие\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\ЭДО\\Form\\ВыполнитьДействие\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\ЭДО\\Form\\ВыполнитьДействие\\Form.commands803.json",
+      "Form.params803.json": "core\\base\\ЭДО\\Form\\ВыполнитьДействие\\Form.params803.json",
+      "Form.props803.json": "core\\base\\ЭДО\\Form\\ВыполнитьДействие\\Form.props803.json",
+      "Form.elements803.json": "core\\base\\ЭДО\\Form\\ВыполнитьДействие\\Form.elements803.json"
+    },
+    "РоботСписок": {
+      "Form.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.json",
+      "Form.form803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.commands803.json",
+      "Form.props803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.props803.json",
+      "Form.elements803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботСписок\\Form.elements803.json"
+    },
+    "РоботОперация": {
+      "Form.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.json",
+      "Form.form803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.commands803.json",
+      "Form.props803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.props803.json",
+      "Form.elements803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботОперация\\Form.elements803.json"
+    },
+    "РоботВыборАлгоритма": {
+      "Form.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.json",
+      "Form.form803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.commands803.json",
+      "Form.props803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.props803.json",
+      "Form.elements803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботВыборАлгоритма\\Form.elements803.json"
+    },
+    "РоботПарамФильтрОбъектовСинх": {
+      "Form.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.json",
+      "Form.form803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.obj.bsl",
+      "Form.commands803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.commands803.json",
+      "Form.props803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.props803.json",
+      "Form.elements803.json": "core\\base\\АвтоматическиеОперации\\Form\\РоботПарамФильтрОбъектовСинх\\Form.elements803.json"
+    },
+    "ДлительнаяОперация": {
+      "Form.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.json",
+      "Form.form803.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.form803.json",
+      "Form.obj.bsl": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.obj.bsl",
+      "Form.params803.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.params803.json",
+      "Form.props803.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.props803.json",
+      "Form.elements803.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.elements803.json"
+    },
+	"ДиалогВыбораИзСписка": {
+	  "Form.json": "core\\base\\ГлавноеОкно\\Form\\ДиалогВыбораИзСписка\\Form.json",
+	  "Form.form803.json": "core\\base\\ГлавноеОкно\\Form\\ДиалогВыбораИзСписка\\Form.form803.json",
+	  "Form.obj.bsl": "core\\base\\ГлавноеОкно\\Form\\ДиалогВыбораИзСписка\\Form.obj.bsl",
+	  "Form.commands803.json": "core\\base\\ГлавноеОкно\\Form\\ДиалогВыбораИзСписка\\Form.commands803.json",
+	  "Form.params803.json": "core\\base\\ГлавноеОкно\\Form\\ДиалогВыбораИзСписка\\Form.params803.json",
+	  "Form.elements803.json": "core\\base\\ГлавноеОкно\\Form\\ДиалогВыбораИзСписка\\Form.elements803.json",
+	  "Form.props803.json": "core\\base\\ГлавноеОкно\\Form\\ДиалогВыбораИзСписка\\Form.props803.json"
+	}
+  },
+  "Template": {
+    "WebInWeb.html": "core\\base\\БазовыеКомпоненты\\Макеты\\WebInWeb.html",
+    "WebInWeb.json": "core\\base\\БазовыеКомпоненты\\Макеты\\WebInWeb.json",
+    "ИсторияОбмена.json": "core\\base\\АвтоматическиеОперации\\Template\\ИсторияОбмена.json",
+    "ИсторияОбмена.mxl": "core\\base\\АвтоматическиеОперации\\Template\\ИсторияОбмена.mxl",
+    "Аккордеон.json": "core\\base\\ГлавноеОкно\\Template\\Аккордеон.json",
+    "Аккордеон.txt": "core\\base\\ГлавноеОкно\\Template\\Аккордеон.txt"
+  },
+  "version.bin": "version.bin",
+  "ExternalDataProcessor.data803.json": "src\\ExternalDataProcessor.data803.json",
+  "ExternalDataProcessor.json": "src\\ExternalDataProcessor.json",
+  "ExternalDataProcessor.obj.bsl": "core\\base\\БазовыеКомпоненты\\DataProcessor\\DataProcessor.obj.bsl"
+  
+}
