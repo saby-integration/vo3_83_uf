@@ -1,0 +1,9 @@
+{
+  "index.json": [
+	"edo\\cmd\\index.common.json",
+	"buh\\cmd\\index.common.json",
+	"kedo\\cmd\\VO3\\index.common.json",
+	"edo\\cmd\\index.common.json",
+	"index.vo3.json"
+  ]
+}
